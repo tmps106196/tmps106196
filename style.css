@@ -96,6 +96,10 @@ html {
   background-image: url("img/ig.webp");
 }
 
+.mc {
+  background-image: url("img/mc.png");
+}
+
 
 /* Hover effect */
 .link a:hover {
